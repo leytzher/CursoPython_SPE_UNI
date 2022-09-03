@@ -50,7 +50,30 @@ https://github.com/leytzher/CursoPython_SPE_UNI/archive/refs/heads/main.zip
 Una vez que tengas Python instalado y hayas descargado (o clonado) este repositorio ya estamos listos para empezar.
 
 
-Nos vemos en clase!!
+## Instalar Librerias.
+
+Instalar librerias en Python es bastante simple, digamos que, por ejemplo, quieres instalar `pandas`, que es una libreria para analizar datos, entonces puedes hacer lo siguiente en tu terminal:
+
+```
+conda install pandas
+```
+
+o, tambien:
+
+```
+pip install pandas
+```
+
+En el curso usaremos `pandas`, `numpy`, `matplotlib`, `welly`, `jupyter notebook`, entonces puedes escribir en tu terminal:
+```
+pip install pandas numpy matplotlib welly jupyter notebook -y
+```
+
+Alternativamente, incluyo un archivo llamado `requirements.txt` donde tengo todas las librerias que he usado en el curso, si queires tener exactamente la misma configuracion que yo tengo, entonces escribe en el terminal:
+
+```
+pip install -r requirements.txt
+```
 
 
 
