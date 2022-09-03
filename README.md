@@ -42,7 +42,7 @@ Si sabes usar Git entonces lo unico que debes hacer es escribir en un terminal:
 git clone https://github.com/leytzher/CursoPython_SPE_UNI
 ```
 
-Si no sabes que es Git, no te preocupes. Lo unico que necesitas hacer es descargar los archivos en este enlace:
+Si no sabes que es Git, no te preocupes. Lo unico que necesitas hacer es descargar los archivos en este enlace y descomprimirlos en una carpeta en tu sistema:
 
 https://github.com/leytzher/CursoPython_SPE_UNI/archive/refs/heads/main.zip
 
