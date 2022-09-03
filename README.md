@@ -34,4 +34,23 @@ Ahora, si se te complica un poco la instalacion de Python en tu sistema siempre 
 https://www.youtube.com/watch?v=fW1v8icj-cs
 
 
+## Clonar este repositorio
+
+Si sabes usar Git entonces lo unico que debes hacer es escribir en un terminal:
+
+```
+git clone https://github.com/leytzher/CursoPython_SPE_UNI
+```
+
+Si no sabes que es Git, no te preocupes. Lo unico que necesitas hacer es descargar los archivos en este enlace:
+
+https://github.com/leytzher/CursoPython_SPE_UNI/archive/refs/heads/main.zip
+
+
+Una vez que tengas Python instalado y hayas descargado (o clonado) este repositorio ya estamos listos para empezar.
+
+
+Nos vemos en clase!!
+
+
 
